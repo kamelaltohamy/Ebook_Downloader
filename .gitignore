@@ -1,0 +1,11 @@
+screen.JPG
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+/Downloaded_Books
+/Downloaded_Books/*
+/Downloaded_Books/*/*
+/Downloaded_Books/*/*/*
+
