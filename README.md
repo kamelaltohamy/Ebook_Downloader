@@ -26,8 +26,10 @@ You will need Python 3.7 or higher installed on your machine.
 ### **Installation**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/yourusername/Archive-Automator.git\](https://github.com/yourusername/Archive-Automator.git)  
-   cd Archive-Automator
+   git clone \[https://github.com/kamelaltohamy/Ebook_Downloader.git\]
+   
+   (https://github.com/kamelaltohamy/Ebook_Downloader.git)  
+  
 
 2. **Install dependencies:**  
    pip install requests beautifulsoup4
